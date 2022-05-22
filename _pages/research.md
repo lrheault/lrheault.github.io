@@ -65,7 +65,7 @@ Politics.* Edward Elgar Publishing.
     - [Open access (PDF)](/downloads/Rheault_2016_PLOS.pdf){:target="_blank"}
     - [GitHub](https://github.com/lrheault/emotion){:target="_blank"}
 
-- **Ludovic Rheault**. 2016. "[Expressions of Anxiety in Political Texts](https://ludovicrheault.weebly.com/uploads/3/9/4/0/39408253/w16-5612.pdf){:target="_blank"}." In Proceedings of the 2016 EMNLP Workshop on Natural Language Processing and Computational Social Science, Austin, Texas, pp. 92-101.
+- **Ludovic Rheault**. 2016. "[Expressions of Anxiety in Political Texts](https://ludovicrheault.weebly.com/uploads/3/9/4/0/39408253/w16-5612.pdf){:target="_blank"}." In *Proceedings of the 2016 EMNLP Workshop on Natural Language Processing and Computational Social Science*, Austin, Texas, pp. 92-101.
     - [Author accepted version (PDF)](/downloads/Rheault_2016_EMNLP.pdf){:target="_blank"}
     - [GitHub](https://github.com/lrheault/anxiety){:target="_blank"}
     - [Data files](/downloads/anxiety-data.tar.gz){:target="_blank"}
@@ -88,6 +88,6 @@ Politics.* Edward Elgar Publishing.
 - Silvina L. Danesi and **Ludovic Rheault**. 2011. "[​Making Sense of an Unstable Legislature: Committee Assignments in the Argentine Chamber of Deputies](https://journals.sagepub.com/doi/pdf/10.1177/1866802X1100300302){:target="_blank"}." *Journal of Politics in Latin America* 3(3): 35-64. 
     - [Open access (PDF)](/downloads/Rheault_2011_JPLA.pdf){:target="_blank"}
 
-- André Blais and **Ludovic Rheault**. 2011. "[Optimists and Skeptics: Why Do People Believe in the Value of their Single Vote?](http://linkinghub.elsevier.com/retrieve/pii/S0261379410000971){:target="_blank"}" (with André Blais). Electoral Studies 30(1): 77-82.
+- André Blais and **Ludovic Rheault**. 2011. "[Optimists and Skeptics: Why Do People Believe in the Value of their Single Vote?](http://linkinghub.elsevier.com/retrieve/pii/S0261379410000971){:target="_blank"}" (with André Blais). *Electoral Studies* 30(1): 77-82.
     - [Open access (PDF)](/downloads/Rheault_2011_ES.pdf){:target="_blank"}
 
