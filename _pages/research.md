@@ -82,6 +82,8 @@ Politics.* Edward Elgar Publishing.
 
 - **Ludovic Rheault**. 2013. "[Corporate Lobbying and Immigration Policies in Canada](https://doi.org/10.1017/S0008423913000644){:target="_blank"}." *Canadian Journal of Political Science* 46(3): 691-722.
     - [Open access (PDF)](/downloads/Rheault_2013_CJPS.pdf){:target="_blank"}
+    - [Codebook (PDF)](/downloads/Codebook.pdf){:target="_blank"}
+    - [Data files](/downloads/LobbyingMig.dat){:target="_blank"}
 
 - Silvina L. Danesi and **Ludovic Rheault**. 2011. "[​Making Sense of an Unstable Legislature: Committee Assignments in the Argentine Chamber of Deputies](https://journals.sagepub.com/doi/pdf/10.1177/1866802X1100300302){:target="_blank"}." *Journal of Politics in Latin America* 3(3): 35-64. 
     - [Open access (PDF)](/downloads/Rheault_2011_JPLA.pdf){:target="_blank"}
