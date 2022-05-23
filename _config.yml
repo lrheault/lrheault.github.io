@@ -4,7 +4,7 @@ minimal_mistakes_skin    : "contrast"
 locale                   : "en-US"
 title                    : ""
 email                    : ludovic.rheault@utoronto.ca
-title_separator          : "-"
+title_separator          : ""
 name                     : "Ludovic Rheault"
 description              : "Academic website for Dr. Ludovic Rheault, Associate Professor at the University of Toronto"
 url                      : "https://lrheault.github.io"
