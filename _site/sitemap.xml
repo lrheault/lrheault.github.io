@@ -26,6 +26,10 @@
 <lastmod>2022-05-22T14:37:41-04:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/downloads/Codebook.pdf</loc>
+<lastmod>2014-09-15T17:23:59-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/downloads/POL214.pdf</loc>
 <lastmod>2022-05-22T17:46:46-04:00</lastmod>
 </url>
@@ -128,6 +132,10 @@
 <url>
 <loc>http://localhost:4000/downloads/bjps_preproof.pdf</loc>
 <lastmod>2019-06-09T16:49:13-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/downloads/imc_rheaultborwein.pdf</loc>
+<lastmod>2021-03-22T14:03:03-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/downloads/rheaultcochrane2019_pa.pdf</loc>

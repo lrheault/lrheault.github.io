@@ -17,5 +17,7 @@ My interest is in data science, in particular machine learning and methods for "
 
 **Email:** ludovic \[DOT\] rheault \[AT\] utoronto \[DOT\] ca 
 
+<br/>
 
-
+<p>Check out <a href="https://www.lipad.ca" target="_blank">Lipad</a>: We turned unstructured data on the Canadian House of Commons into a searchable database!</p>
+<a href="https://www.lipad.ca" target="_blank"><img src="/assets/images/lipad.png" alt="Image Unavailable" width="150" height="75"></a>
