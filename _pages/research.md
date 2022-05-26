@@ -92,6 +92,6 @@ Politics.* Edward Elgar Publishing. (Forthcoming.)
 - Silvina L. Danesi and **Ludovic Rheault**. 2011. "[​Making Sense of an Unstable Legislature: Committee Assignments in the Argentine Chamber of Deputies](https://journals.sagepub.com/doi/pdf/10.1177/1866802X1100300302){:target="_blank"}." *Journal of Politics in Latin America* 3(3): 35-64. 
     - [Open access (PDF)](/downloads/Rheault_2011_JPLA.pdf){:target="_blank"}
 
-- André Blais and **Ludovic Rheault**. 2011. "[Optimists and Skeptics: Why Do People Believe in the Value of their Single Vote?](http://linkinghub.elsevier.com/retrieve/pii/S0261379410000971){:target="_blank"}." *Electoral Studies* 30(1): 77-82.
+- André Blais and **Ludovic Rheault**. 2011. "[Optimists and Skeptics: Why Do People Believe in the Value of their Single Vote?](http://linkinghub.elsevier.com/retrieve/pii/S0261379410000971){:target="_blank"}" *Electoral Studies* 30(1): 77-82.
     - [Open access (PDF)](/downloads/Rheault_2011_ES.pdf){:target="_blank"}
 
