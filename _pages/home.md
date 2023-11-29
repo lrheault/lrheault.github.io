@@ -21,3 +21,7 @@ My interest is in data science, in particular machine learning and methods for "
 
 <p>Check out <a href="https://www.lipad.ca" target="_blank">Lipad</a>: We turned unstructured data on the Canadian House of Commons into a searchable database!</p>
 <a href="https://www.lipad.ca" target="_blank"><img src="/assets/images/lipad.png" alt="Image Unavailable" width="150" height="75"></a>
+
+<br>
+<p>Link to the legacy website of the PolMeth 2020 conference, for which I served as organizer:</p>
+<a href="https://polmeth2020.org" target="_blank"><img src="/assets/images/spm_logo.png" alt="Image Unavailable" width="150" height="75"></a>
