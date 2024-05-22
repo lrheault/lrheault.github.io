@@ -7,19 +7,19 @@ toc: false
 toc_icon: "cog"
 ---
 
-## Ongoing Work
+## Working Papers
 
 - Andreea Musulan and **Ludovic Rheault**. 2022. "Did Wall Street Take Over Reddit?" Working Paper. University of Toronto.
-- **Ludovic Rheault** and Sophie Borwein. 2022. "Audio as Data." In Andrea Ceron, Ed. *Encyclopedia of Technology and
-Politics.* Edward Elgar Publishing. (Forthcoming.)
-    - [Author accepted version (PDF)](/downloads/AudioAsData_RheaultBorwein.pdf){:target="_blank"} 
-- Bazen Teferra, Sophie Borwein, Danielle D. DeSouza, William Simpson, **Ludovic Rheault** and Jonathan Rose. 2022. "[Acoustic and Linguistic Features of Impromptu Speech and their Association with Anxiety: Validation Study](https://doi.org/10.2196/36828){:target="_blank"}." *JMIR Mental Health* (Accepted for publication.)
-    - [Author accepted version (PDF)](/downloads/preprint-36828-accepted.pdf){:target="_blank"}
 - **Ludovic Rheault** and Sophie Borwein. 2020. "Modeling Audio Data with Speaker Heterogeneity." Presented at the International Methods Colloquium.​
     - [Slides (PDF)](/downloads/imc_rheaultborwein.pdf){:target="_blank"}
 
 ## Publications
 
+- **Ludovic Rheault** and Sophie Borwein. 2022. "Audio as Data." In Andrea Ceron, Ed. *Encyclopedia of Technology and
+Politics.* Edward Elgar Publishing. 
+    - [Author accepted version (PDF)](/downloads/AudioAsData_RheaultBorwein.pdf){:target="_blank"} 
+- Bazen Teferra, Sophie Borwein, Danielle D. DeSouza, William Simpson, **Ludovic Rheault** and Jonathan Rose. 2022. "[Acoustic and Linguistic Features of Impromptu Speech and their Association with Anxiety: Validation Study](https://doi.org/10.2196/36828){:target="_blank"}." *JMIR Mental Health* 9(7): e36828.
+    - [Author accepted version (PDF)](/downloads/preprint-36828-accepted.pdf){:target="_blank"}
 - **Ludovic Rheault** and Andreea Musulan. 2021. "[Efficient Detection of Online Communities and Social Bot Activity During Electoral Campaigns](https://www.tandfonline.com/doi/abs/10.1080/19331681.2021.1879705?journalCode=witp20){:target="_blank"}." *Journal of Information Technology & Politics* 18(3): 324-337.
     - [Author accepted version (PDF)](/downloads/Rheault_2021_JITP.pdf){:target="_blank"}
     - [SSRN](https://ssrn.com/abstract=3547763){:target="_blank"}
