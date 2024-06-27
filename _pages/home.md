@@ -7,9 +7,9 @@ header:
 excerpt: <br/>
 ---
 
-I am Associate Professor in the Department of Political Science at the University of Toronto, with an affiliation to the Munk School of Global Affairs and Public Policy. I obtained my PhD in 2013 from the University of Montreal in Canada. 
+I was an Associate Professor in the Department of Political Science at the University of Toronto until 2024, before moving to the private sector. Thank you to my former students and colleagues for the many years spent learning and teaching new skills at UofT. This website is an archive to materials related to my activities as a scholar. 
 
-My interest is in data science, in particular machine learning and methods for "text as data." I teach statistical methods and Canadian politics. In my free time, I study markets.
+As a scholar, my interests focused on data sciences, in particular machine learning and methods for "text as data." I taught statistical methods and Canadian politics.
 
 <br/>
 
