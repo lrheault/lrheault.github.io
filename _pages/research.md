@@ -7,28 +7,23 @@ toc: false
 toc_icon: "cog"
 ---
 
-## Unpublished Work
-
-- Andreea Musulan and **Ludovic Rheault**. 2022. "Did Wall Street Take Over Reddit?" Working Paper. University of Toronto.
-- **Ludovic Rheault** and Sophie Borwein. 2020. "Modeling Audio Data with Speaker Heterogeneity." Presented at the International Methods Colloquium.​
-    - [Slides (PDF)](/downloads/imc_rheaultborwein.pdf){:target="_blank"}
-
 ## Publications
 
 - **Ludovic Rheault** and Sophie Borwein. 2022. "Audio as Data." In Andrea Ceron, Ed. *Encyclopedia of Technology and
 Politics.* Edward Elgar Publishing. 
     - [Author accepted version (PDF)](/downloads/AudioAsData_RheaultBorwein.pdf){:target="_blank"} 
+
 - Bazen Teferra, Sophie Borwein, Danielle D. DeSouza, William Simpson, **Ludovic Rheault** and Jonathan Rose. 2022. "[Acoustic and Linguistic Features of Impromptu Speech and their Association with Anxiety: Validation Study](https://doi.org/10.2196/36828){:target="_blank"}." *JMIR Mental Health* 9(7): e36828.
     - [Author accepted version (PDF)](/downloads/preprint-36828-accepted.pdf){:target="_blank"}
+
+- Christopher Cochrane, **Ludovic Rheault**, Jean-François Godbout, Tanya Whyte, Michael W.-C. Wong and Sophie Borwein. 2022. "[The Automatic Analysis of Emotion in Political Speech Based on Transcripts](https://www.tandfonline.com/doi/full/10.1080/10584609.2021.1952497){:target="_blank"}." *Political Communication* 39(1): 98-121.
+    - [Author accepted version (PDF)](/downloads/Political_Communication_AAV.pdf){:target="_blank"} 
+    - [GitHub](https://github.com/ccochrane/emotionTranscripts){:target="_blank"}
+      
 - **Ludovic Rheault** and Andreea Musulan. 2021. "[Efficient Detection of Online Communities and Social Bot Activity During Electoral Campaigns](https://www.tandfonline.com/doi/abs/10.1080/19331681.2021.1879705?journalCode=witp20){:target="_blank"}." *Journal of Information Technology & Politics* 18(3): 324-337.
     - [Author accepted version (PDF)](/downloads/Rheault_2021_JITP.pdf){:target="_blank"}
     - [SSRN](https://ssrn.com/abstract=3547763){:target="_blank"}
     - [Dataverse](https://doi.org/10.7910/DVN/P6SZ2G){:target="_blank"} 
-
-- Christopher Cochrane, **Ludovic Rheault**, Jean-François Godbout, Tanya Whyte, Michael W.-C. Wong and Sophie Borwein. 2021. "[The Automatic Analysis of Emotion in Political Speech Based on Transcripts](https://www.tandfonline.com/doi/full/10.1080/10584609.2021.1952497){:target="_blank"}." *Political Communication* 39(1): 98-121.
-    - [Author accepted version (PDF)](/downloads/Political_Communication_AAV.pdf){:target="_blank"} 
-    - [PyPi](https://pypi.org/project/word2lex/){:target="_blank"}
-    - [GitHub](https://github.com/ccochrane/emotionTranscripts){:target="_blank"}
 
 - **Ludovic Rheault** and Andreea Musulan. 2021. "[Explaining Support for COVID-19 Cell Phone Contact Tracing](https://doi.org/10.1017/S0008423921000019){:target="_blank"}." *Canadian Journal of Political Science* 54(2): 431-448.
     - [Author accepted version (PDF)](/downloads/Rheault_2021_CJPS.pdf){:target="_blank"}
@@ -94,4 +89,10 @@ Politics.* Edward Elgar Publishing.
 
 - André Blais and **Ludovic Rheault**. 2011. "[Optimists and Skeptics: Why Do People Believe in the Value of their Single Vote?](http://linkinghub.elsevier.com/retrieve/pii/S0261379410000971){:target="_blank"}" *Electoral Studies* 30(1): 77-82.
     - [Open access (PDF)](/downloads/Rheault_2011_ES.pdf){:target="_blank"}
+
+## Unpublished Work
+
+- Andreea Musulan and **Ludovic Rheault**. 2022. "Did Wall Street Take Over Reddit?" Working Paper. University of Toronto.
+- **Ludovic Rheault** and Sophie Borwein. 2020. "Modeling Audio Data with Speaker Heterogeneity." Presented at the International Methods Colloquium.​
+    - [Slides (PDF)](/downloads/imc_rheaultborwein.pdf){:target="_blank"}
 
