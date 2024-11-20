@@ -7,15 +7,13 @@ header:
 excerpt: <br/>
 ---
 
-I was an Associate Professor in the Department of Political Science at the University of Toronto until 2024, before moving to the private sector. Thank you to my former students and colleagues for the many years spent learning and teaching new skills at UofT. 
+I was previously Associate Professor in the Department of Political Science at the University of Toronto, before moving to the private sector. Thank you to my former students and colleagues for the many years spent learning and teaching new skills at UofT. 
 
 As a scholar, my interests focused on data sciences, in particular machine learning and methods for "text as data." I taught statistical methods and Canadian politics.
 
 <br/>
 
 **Interests:** Computational Social Science; Machine Learning; Quantitative Methods.
-
-**Email:** ludovic \[DOT\] rheault \[AT\] utoronto \[DOT\] ca 
 
 <br/>
 
